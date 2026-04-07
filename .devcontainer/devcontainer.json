@@ -1,5 +1,5 @@
 {
-  "name": "Claude Code Sandbox",
+  "name": "Digital Terrarium - Claude Sandbox",
   "build": {
     "dockerfile": "Dockerfile",
     "args": {
