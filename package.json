@@ -5,6 +5,7 @@
 	"scripts": {
 		"dev": "next dev",
 		"container:up": "devcontainer up --workspace-folder .",
+		"container:rebuild": "devcontainer up --workspace-folder . --remove-existing-container",
 		"container:shell": "devcontainer exec --workspace-folder . /bin/zsh",
 		"build": "next build",
 		"start": "next start",
